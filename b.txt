@@ -1,2 +1,2 @@
 Testar a atualização!
-3
+3 - Adicionar novas funcionalidades
