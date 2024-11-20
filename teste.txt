@@ -1,8 +1,8 @@
 Tesatar repo123
 
-a
-b
-c
+a - faz certa coisa
+b - faz outra coisa
+c - faz determinada coisa
 d
 e
 f
