@@ -4,3 +4,5 @@ arquivo!
 2
 enviar
 a funcionalidade A
+enviar
+a funcionalidade B
